@@ -12,5 +12,5 @@ public interface IOperasi {
     public int pertambahan(int a, int b);
     public int pengurangan(int a, int b);
     public int perkalian(int a, int b);
-    public double pembagian(double a, double b);
+    public int pembagian(int a, int b);
 }

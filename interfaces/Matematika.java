@@ -22,7 +22,7 @@ public class Matematika implements IOperasi {
         return a*b;
     }
 
-    public double pembagian(double a, double b) {
+    public int pembagian(int a, int b) {
         return a/b;
     }
     
